@@ -1,0 +1,148 @@
+/* CSS HEX */
+--mindaro: #d9ed92ff;
+--light-green: #b5e48cff;
+--light-green-2: #99d98cff;
+--emerald: #76c893ff;
+--keppel: #52b69aff;
+--verdigris: #34a0a4ff;
+--bondi-blue: #168aadff;
+--cerulean: #1a759fff;
+--lapis-lazuli: #1e6091ff;
+--indigo-dye: #184e77ff;
+
+/* CSS HSL */
+--mindaro: hsla(73, 72%, 75%, 1);
+--light-green: hsla(92, 62%, 72%, 1);
+--light-green-2: hsla(110, 50%, 70%, 1);
+--emerald: hsla(141, 43%, 62%, 1);
+--keppel: hsla(163, 41%, 52%, 1);
+--verdigris: hsla(182, 52%, 42%, 1);
+--bondi-blue: hsla(194, 77%, 38%, 1);
+--cerulean: hsla(199, 72%, 36%, 1);
+--lapis-lazuli: hsla(206, 66%, 34%, 1);
+--indigo-dye: hsla(206, 66%, 28%, 1);
+
+/* 
+.
+.
+.
+Black-Blue-Creme-Orange-Braun
+.
+.
+*/
+
+/* CSS HEX */
+--rich-black: #001524ff;
+--caribbean-current: #15616dff;
+--papaya-whip: #ffecd1ff;
+--orange-wheel: #ff7d00ff;
+--sienna: #78290fff;
+
+/* CSS HSL */
+--rich-black: hsla(205, 100%, 7%, 1);
+--caribbean-current: hsla(188, 68%, 25%, 1);
+--papaya-whip: hsla(35, 100%, 91%, 1);
+--orange-wheel: hsla(29, 100%, 50%, 1);
+--sienna: hsla(15, 78%, 26%, 1);
+
+/* 
+.
+.
+.
+Black-Blue-Creme-Orange-Braun
+.
+.
+*/
+
+/* CSS HEX */
+--olive: #7c6a0aff;
+--sage: #babd8dff;
+--apricot: #ffdac6ff;
+--princeton-orange: #fa9500ff;
+--persimmon: #eb6424ff;
+
+/* CSS HSL */
+--olive: hsla(51, 85%, 26%, 1);
+--sage: hsla(64, 27%, 65%, 1);
+--apricot: hsla(21, 100%, 89%, 1);
+--princeton-orange: hsla(36, 100%, 49%, 1);
+--persimmon: hsla(19, 83%, 53%, 1);
+
+/* 
+.
+.
+.
+Orange-Blue-Violett
+.
+.
+*/
+
+/* CSS HEX */
+--pumpkin: #ff6d00ff;
+--safety-orange: #ff7900ff;
+--ut-orange: #ff8500ff;
+--princeton-orange: #ff9100ff;
+--orange-peel: #ff9e00ff;
+--russian-violet: #240046ff;
+--persian-indigo: #3c096cff;
+--tekhelet: #5a189aff;
+--french-violet: #7b2cbfff;
+--amethyst: #9d4eddff;
+
+/* CSS HSL */
+--pumpkin: hsla(26, 100%, 50%, 1);
+--safety-orange: hsla(28, 100%, 50%, 1);
+--ut-orange: hsla(31, 100%, 50%, 1);
+--princeton-orange: hsla(34, 100%, 50%, 1);
+--orange-peel: hsla(37, 100%, 50%, 1);
+--russian-violet: hsla(271, 100%, 14%, 1);
+--persian-indigo: hsla(271, 85%, 23%, 1);
+--tekhelet: hsla(270, 73%, 35%, 1);
+--french-violet: hsla(272, 63%, 46%, 1);
+--amethyst: hsla(273, 68%, 59%, 1);
+
+/* 
+.
+.
+.
+DarkPurple-Ocker-Türkis
+.
+.
+*/
+
+/* CSS HEX */
+--dark-purple: #3c153bff;
+--claret: #8b1e3fff;
+--vermilion: #db4c40ff;
+--sunglow: #ffc857ff;
+--mindaro: #bce784ff;
+--emerald: #5dd39eff;
+--blue-munsell: #348aa7ff;
+
+/* CSS HSL */
+--dark-purple: hsla(302, 48%, 16%, 1);
+--claret: hsla(342, 64%, 33%, 1);
+--vermilion: hsla(5, 68%, 55%, 1);
+--sunglow: hsla(40, 100%, 67%, 1);
+--mindaro: hsla(86, 67%, 71%, 1);
+--emerald: hsla(153, 57%, 60%, 1);
+--blue-munsell: hsla(195, 53%, 43%, 1);
+
+/*
+
+field-drab-sienna
+*/
+
+/* CSS HEX */
+--field-drab: #585123ff;
+--hunyadi-yellow: #eec170ff;
+--sandy-brown: #f2a65aff;
+--orange-crayola: #f58549ff;
+--sienna: #772f1aff;
+
+/* CSS HSL */
+--field-drab: hsla(52, 43%, 24%, 1);
+--hunyadi-yellow: hsla(39, 79%, 69%, 1);
+--sandy-brown: hsla(30, 85%, 65%, 1);
+--orange-crayola: hsla(21, 90%, 62%, 1);
+--sienna: hsla(14, 64%, 28%, 1);
